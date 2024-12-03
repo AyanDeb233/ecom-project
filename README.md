@@ -1,2 +1,2 @@
 # ecom-project
-Ecom - A modern e-commerce website for seamless online shopping. 
+Ecom - A web design project for the Programming Hero Web Development Kickstart course, focusing on building an e-commerce website.
